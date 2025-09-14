@@ -1,0 +1,19 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+
+
+@theme {
+  --color-green-800: #22543d;
+  --color-green-600: #38a169;
+
+  --color-gold: #d4af37;
+  --color-gold-dark: #b8972e;
+
+  --color-lightbg: #f9fafb;
+
+  /* Fonts */
+  --font-serif-heading: "Amiri", serif;
+  --font-body: "Open Sans", sans-serif;
+}
