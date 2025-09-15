@@ -85,7 +85,7 @@ export const projects: ProjectsByType[] = [
         title: "Monster Rolodex",
         description: "Displaying monsters from an API",
         image: monster,
-        liveUrl:"monsterrolodexe.netlify.app",
+        liveUrl:"https:/monsterrolodexe.netlify.app",
         repoUrl:"https://github.com/aman-khan7/monsters-rolodex",
 
 
