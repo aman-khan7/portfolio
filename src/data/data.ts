@@ -24,6 +24,7 @@ import Natours from "../assets/natours.png";
 import Nexter from "../assets/nexter.png";
 import Trillo from "../assets/trillo.png";
 import Antd from "../assets/antd.svg";
+import monster from "../assets/monster-rolodex.png";
 
 export const hero: HeroData = {
   name: "Aman Khan",
@@ -78,6 +79,17 @@ export const projects: ProjectsByType[] = [
         image: CrwnClothing,
         liveUrl: "kapdokidukaan.netlify.app",
         repoUrl: "https://github.com/aman-khan7/crwn-clothing",
+      },
+      {
+        id: "react2",
+        title: "monster rolodex",
+        description: "displaying monster",
+        image: monster,
+        liveUrl:"monsterrolodexe.netlify.app",
+        repoUrl:"https://github.com/aman-khan7/monsters-rolodex",
+
+
+
       },
     ],
   },
